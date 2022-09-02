@@ -3,7 +3,7 @@
 Current Feels...
 
 ```python
-x = "Nicolle is having a"
+x = "Nicolle is having a "
 y = "headache"
 print(x + y)
 
@@ -18,5 +18,21 @@ if "pass" in txt:
 print("Yes, she will 'pass'.")
 
 Yes, she will 'pass'.
+
+```
+What score will Nicolle get?
+
+```python
+x = 100 
+
+if x > 50:
+  print("Above fifty she will buy Roman a coffee,")
+  if x > 60:
+    print("and another coffee!")
+  else:
+    print("Try again.")
+    
+Above fifty she will buy Roman a coffee,
+and another coffee!
 
 
