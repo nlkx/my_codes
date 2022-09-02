@@ -33,6 +33,6 @@ if x > 50:
     print("Try again.")
     
 Above fifty she will buy Roman a coffee,
-and another coffee!
+along with a cookie!
 
 
