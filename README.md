@@ -28,7 +28,7 @@ x = 100
 if x > 50:
   print("Above fifty she will buy Roman a coffee,")
   if x > 60:
-    print("and another coffee!")
+    print("along with a cookie!")
   else:
     print("Try again.")
     
